@@ -1,0 +1,57 @@
+/* add your CSS here */
+body{
+margin: auto;
+padding: 20px;
+
+}
+.facts {
+  font-style: italic;
+
+}
+span {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding:0;
+}
+
+.content {
+  text-align: center;
+  width: 320px;
+  padding: 10px;
+  border: #00000040 solid;
+  border-width: 1px;
+  box-shadow: 8px 8px #00000010;
+  border-radius:15px;
+
+}
+
+.title{
+
+  border-bottom: #00000040 solid;
+  border-radius: 2px;
+  color: purple;
+}
+
+img {
+  width:300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+
+
+}
+
+.info{
+  border: #00000040 solid;
+  border-width: 1px;
+  padding: 10px;
+  text-align: left;
+  border-radius:5px;
+}
+
+.desc{
+      text-align: justify;
+}
